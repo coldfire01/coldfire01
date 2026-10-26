@@ -1,53 +1,24 @@
-# 👋 Olá! Eu sou Fábio Junior
+# Fábio Leal
 
-💻 Desenvolvedor em formação | 🚀 Explorando tecnologia | 📚 Sempre aprendendo
+Desenvolvedor de sites e sistemas e fundador da **Corpority X**.
 
-Seja bem-vindo ao meu perfil!
+Desenvolvo interfaces e aplicações voltadas à apresentação de serviços, organização do atendimento e necessidades de negócios. Meu trabalho reúne identidade visual, navegação clara e experiências interativas, incluindo elementos 3D quando contribuem para o projeto.
 
-Estou começando minha jornada no desenvolvimento de software e utilizando o GitHub para
-registrar meus estudos, projetos e minha evolução na programação.
+## Atuação
 
----
+- Desenvolvimento de sites e landing pages responsivas.
+- Criação de interfaces alinhadas à identidade de cada negócio.
+- Desenvolvimento de funcionalidades para atendimento e agendamento.
+- Manutenção e melhoria de projetos existentes.
 
-## 🚀 Sobre mim
+## Desenvolvimento técnico
 
-- 🌱 Atualmente estou aprendendo desenvolvimento de software
-- 💻 Criando meus primeiros projetos e experimentos
-- 📚 Estudando e praticando constantemente
-- 🎯 Meu objetivo é evoluir cada vez mais como desenvolvedor
-- 🔥 Gosto de transformar ideias em projetos reais
+Utilizo este espaço para documentar projetos, registrar decisões e acompanhar minha evolução em desenvolvimento de software.
 
----
+Atualmente, aprofundo meus conhecimentos em JavaScript, backend, segurança de aplicações e versionamento com Git e GitHub.
 
-## 🛠️ Tecnologias
+## Contato
 
-Atualmente estou estudando e explorando:
+Para conversar sobre projetos e oportunidades:
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</div>
-
-> Essa seção será atualizada conforme eu for aprendendo novas tecnologias.
-
----
-
-## 📂 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado.
-
-| Projeto | Descrição |
-|--------|-----------|
-| 🚧 Em breve | Novos projetos serão adicionados aqui |
-| 🚧 Em breve | Experimentos e estudos |
-| 🚧 Em breve | Projetos pessoais |
-
----
-
-## 📈 Minha jornada
-
-Estou começando agora, então este perfil representa principalmente minha evolução.
-
-Cada projeto, commit e estudo faz parte do processo de construção das minhas habilidades.
-
-```text
-Aprender → Praticar → Criar → Melhorar → Repetir 🔄
+**corporityx@gmail.com**
